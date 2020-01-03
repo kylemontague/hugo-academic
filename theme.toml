@@ -1,4 +1,4 @@
-name = "Academic"
+name = "Academic-Kylemontague"
 license = "MIT"
 licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
 description = "The website builder for Hugo. Build *anything* with widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
@@ -39,11 +39,11 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Kyle Montague"
+  homepage = "https://kylemontague.co.uk"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "George Cushen"
+  homepage = "https://georgecushen.com"
+  repo = "https://github.com/gcushen/hugo-academic"
